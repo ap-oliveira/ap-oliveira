@@ -4,6 +4,11 @@
 
 <p align="left">Olá, eu me chamo Ana Paula e sou uma Analista de Dados brasileira. <br>Se você tem interesse em tomar decisões orientadas por dados reais, você chegou ao perfil certo!<br>Fique a vontade para dar uma olhada nos meus projetos navegando pelos repositórios.</p>
 
+## 📊 Meus GitHub Stats
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 ###
 
 <div align="center">
